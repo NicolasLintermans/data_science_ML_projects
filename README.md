@@ -1,12 +1,13 @@
 # data_science_projects
-Overview of my data science projects
 
-Summary:
+## Summary:
 
   - NumPy 
   - Pandas
-  
-NumPy
-  - creating, manipulating and visualising (multidimensional) arrays
+<br> 
 
-Pandas: TBA
+## NumPy
+  - creating, manipulating and visualising (multidimensional) arrays
+<br> 
+
+## Pandas: TBA
