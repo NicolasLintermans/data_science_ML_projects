@@ -6,6 +6,7 @@ Summary:
   - NumPy 
   - Pandas
   
-NumPy: creating, manipulating and visualising (multidimensional) arrays
+NumPy
+  - creating, manipulating and visualising (multidimensional) arrays
 
 Pandas: TBA
