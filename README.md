@@ -17,3 +17,6 @@
   - Merging, Joining and Concatenating
   - Operations
   - Data Input and Ouput
+  - Exercices
+    * Salary
+    * Ecommerce purchase
