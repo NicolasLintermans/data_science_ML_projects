@@ -7,7 +7,7 @@
 <br> 
 
 ## NumPy
-  - creating, manipulating and visualising (multidimensional) arrays
+  - Creating, manipulating and visualising (multidimensional) arrays
 <br> 
 
 ## Pandas
