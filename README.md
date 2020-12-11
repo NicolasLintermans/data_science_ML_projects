@@ -4,6 +4,7 @@
 
   - NumPy 
   - Pandas
+  - Matplotlib
 <br>
 <br>
 
