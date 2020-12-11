@@ -21,7 +21,7 @@
   - Data Input and Ouput
   - Business challenges
     * Salary
-    * Ecommerce purchases
+    * E-commerce purchases
 <br>
 
 ## Matplotlib
