@@ -25,4 +25,13 @@
 <br>
 
 ## Matplotlib
-  - TBA
+  - Plots (the OOP way)
+  - Subplots
+  - Figure size and DPI
+  - Saving plots
+  - Legens, labels and titles
+  - Setting colours, linewidths and linetypes
+  - Plot range
+  - Special plot types
+<br>
+
