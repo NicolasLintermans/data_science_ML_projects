@@ -29,7 +29,7 @@
   - Subplots
   - Figure size and DPI
   - Saving plots
-  - Legens, labels and titles
+  - Legends, labels and titles
   - Setting colours, linewidths and linetypes
   - Plot range
   - Special plot types
