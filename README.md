@@ -25,8 +25,7 @@
 <br>
 
 ## Matplotlib
-  - Plots (the OOP way)
-  - Subplots
+  - Plots (the OOP way) & subplots
   - Figure size and DPI
   - Saving plots
   - Legends, labels and titles
