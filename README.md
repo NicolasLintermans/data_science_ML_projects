@@ -18,7 +18,7 @@
   - Groupby
   - Merging, Joining and Concatenating
   - Operations
-  - Data Input and Ouput
+  - Data Input and Output
   - Business challenges
     * Salary
     * E-commerce purchases
