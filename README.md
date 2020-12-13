@@ -33,5 +33,6 @@
   - Colours, linewidths, linetypes & datapoint markers
   - Plot range
   - Special plot types
+  - Business challenges
 <br>
 
