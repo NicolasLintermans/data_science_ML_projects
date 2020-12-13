@@ -9,16 +9,16 @@
 <br>
 
 ## NumPy
-  - Creating, manipulating and visualising (multidimensional) arrays
+  - Creating, manipulating & visualising (multidimensional) arrays
 <br> 
 
 ## Pandas
-  - Series and DataFrames
+  - Series & DataFrames
   - Missing Data
   - Groupby
-  - Merging, Joining and Concatenating
+  - Merging, Joining & Concatenating
   - Operations
-  - Data Input and Output
+  - Data Input & Output
   - Business challenges
     * Salary
     * E-commerce purchases
@@ -26,9 +26,9 @@
 
 ## Matplotlib
   - Plots (the OOP way) & subplots
-  - Figure size and DPI
+  - Figure size & DPI
   - Saving plots
-  - Legends, labels and titles
+  - Legends, labels & titles
   - Colours, linewidths, linetypes & datapoint markers
   - Plot range
   - Special plot types
