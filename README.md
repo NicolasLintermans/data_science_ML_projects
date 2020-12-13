@@ -29,7 +29,7 @@
   - Figure size and DPI
   - Saving plots
   - Legends, labels and titles
-  - Setting colours, linewidths and linetypes
+  - Colours, linewidths, linetypes & datapoint markers
   - Plot range
   - Special plot types
 <br>
