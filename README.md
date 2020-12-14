@@ -39,4 +39,10 @@
 <br>
 
 ## Seaborn
-  - TBA
+  - Distribution plots
+  - Categorical plots
+  - Matrix plots
+  - Grids
+  - Regression plots
+  - Style & colour
+  - Business challenges
