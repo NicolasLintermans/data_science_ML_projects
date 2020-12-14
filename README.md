@@ -37,7 +37,14 @@
     * Scatterplot
     * Histogram
     * Boxplot
+    * Step plot
+    * Bar plot
+    * Fill between plot
   - Business challenges
+    * Plotting, the OOP way
+    * zooming in on (x,y) intervals
+    * Subplots & lay-out
+    * Plot text annotation
 <br>
 
 ## Seaborn
