@@ -33,7 +33,8 @@
   - Legends, labels & titles
   - Colours, linewidths, linetypes & datapoint markers
   - Plot range
-  - Special plot types (Note: Seaborn may be better suited for these statistical plotting methods --> Please refer to 'Seaborn.ipynb')
+  - Special plot types
+    * Note: Seaborn may be better suited for these statistical plotting methods --> Please refer to 'Seaborn.ipynb'
   - Business challenges & plot text annotation
 <br>
 
