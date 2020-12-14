@@ -6,6 +6,7 @@
   - NumPy 
   - Pandas
   - Matplotlib
+  - Seaborn
 <br>
 <br>
 
@@ -39,3 +40,5 @@
   - Business challenges
 <br>
 
+## Seaborn
+  - TBA
