@@ -45,4 +45,7 @@
   - Grids
   - Regression plots
   - Style & colour
-  - Business challenges
+<br>
+
+## Plotly & Cufflinks
+  - TBA
