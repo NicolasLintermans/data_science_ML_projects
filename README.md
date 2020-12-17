@@ -21,10 +21,11 @@
   - Merging, Joining & Concatenating
   - Operations
   - Data Input & Output
-  - Business challenges
+  - Business challenges I(data analysis & manipulation)
     * Salary
     * E-commerce purchases
   - Built-in data visualisation
+  - Business challenges II (data visualisation)
 <br>
 
 ## Matplotlib
