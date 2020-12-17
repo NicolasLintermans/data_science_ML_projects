@@ -7,6 +7,9 @@
   - Pandas
   - Matplotlib
   - Seaborn
+  - Plotly & Cufflinks
+  - Geographical plotting
+  - Data science capstone project
 <br>
 <br>
 
