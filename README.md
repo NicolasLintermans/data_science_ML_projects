@@ -21,7 +21,7 @@
   - Merging, Joining & Concatenating
   - Operations
   - Data Input & Output
-  - Business challenges I(data analysis & manipulation)
+  - Business challenges I (data analysis & manipulation)
     * Salary
     * E-commerce purchases
   - Built-in data visualisation
