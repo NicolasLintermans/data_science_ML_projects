@@ -9,7 +9,7 @@
   - Seaborn
   - Plotly & Cufflinks
   - Geographical plotting with choropleth maps
-  - Data science capstone project
+  - Data science capstone projects
 <br>
 <br>
 
@@ -72,5 +72,6 @@
   - Choropleth world map
 <br>
 
-## Data science capstone project
-  - TBA
+## Data science capstone projects
+  - Calls project
+  - Finance project
