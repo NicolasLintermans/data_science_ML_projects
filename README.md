@@ -8,7 +8,7 @@
   - Matplotlib
   - Seaborn
   - Plotly & Cufflinks
-  - Geographical plotting
+  - Geographical plotting with choropleth maps
   - Data science capstone project
 <br>
 <br>
@@ -65,3 +65,8 @@
     * Spreadplot
     * Bubbleplot
     * Scatter matrix plot
+<br>
+
+## Geographical plotting: choropleth maps
+  - Choropleth US map
+  - Choropleth world map
