@@ -70,3 +70,7 @@
 ## Geographical plotting: choropleth maps
   - Choropleth US map
   - Choropleth world map
+<br>
+
+## Data science capstone project
+  - TBA
