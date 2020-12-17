@@ -53,4 +53,15 @@
 <br>
 
 ## Plotly & Cufflinks
-  - TBA
+  - Plotly: interactive visualizations
+  - Cufflinks: connects the Plotly library with the Pandas library
+  - Interactive plotting
+    * Lineplot
+    * Scatterplot
+    * Barplot
+    * Boxplot
+    * 3D-surface plot
+    * Histogram
+    * Spreadplot
+    * Bubbleplot
+    * Scatter matrix plot
