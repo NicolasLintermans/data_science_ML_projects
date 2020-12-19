@@ -73,5 +73,5 @@
 <br>
 
 ## Data science capstone projects
-  - 911 Calls project
-  - Finance project
+  - 911 Calls capstone project
+  - Finance capstone project
